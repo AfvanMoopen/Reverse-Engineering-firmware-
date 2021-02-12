@@ -1,0 +1,5 @@
+pycryptodomex
+requests
+passlib
+beautifulsoup4
+lxml
